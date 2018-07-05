@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (c) 2018, Deepak Goyal under Apache License.
+  ~ All rights reserved.
+  ~ Redistribution and use in source and binary forms, with or without
+  ~ modification, are permitted provided that the following conditions are met:
+  ~
+  ~ - Redistributions of source code must retain the above copyright
+  ~   notice, this list of conditions and the following disclaimer.
+  ~
+  ~ - Redistributions in binary form must reproduce the above copyright
+  ~   notice, this list of conditions and the following disclaimer in the
+  ~   documentation and/or other materials provided with the distribution.
+  -->
+
+<resources>
+    <string name="mainActivityTitle">मुख्य गतिविधि</string>
+    <string name="mainActivityContent">हिंदी सामग्री\nदाएं शीर्ष आइकन पर क्लिक करें और भाषा बदलने के लिए सेटिंग्स पर जाएं।</string>
+
+    <string name="settings">सेटिंग्स</string>
+
+    <string name="settings_language">भाषा</string>
+
+    <string name="settings_about">बारे में</string>
+    <string name="settings_app_version">एप्लिकेशन संस्करण</string>
+
+    <string name="selectLanguage">भाषा चुनिए</string>
+</resources>
